@@ -6,3 +6,8 @@ export * from './foto-vehiculo.controller';
 export * from './vehiculo-foto.controller';
 export * from './vehiculo-proveedor.controller';
 export * from './proveedor-vehiculo.controller';
+export * from './marca.controller';
+export * from './categoria.controller';
+export * from './proveedor.controller';
+export * from './foto.controller';
+export * from './vehiculo.controller';

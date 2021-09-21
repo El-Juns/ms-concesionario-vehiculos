@@ -63,10 +63,9 @@ export class Vehiculo extends Entity {
 
   @property({
     type: 'number',
-    required: true,
     default: 0
   })
-  descuento: number;
+  descuento?: number;
 
   @property({
     type: 'boolean',
